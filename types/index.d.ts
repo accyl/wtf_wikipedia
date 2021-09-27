@@ -4,7 +4,7 @@
 //                 Mr. Xyfir <https://github.com/MrXyfir>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-// export = wtf
+export = wtf
 export as namespace wtf
 
 declare function wtf(wiki: string, options?: any): wtf.Document
